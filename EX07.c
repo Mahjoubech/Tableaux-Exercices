@@ -8,7 +8,7 @@ scanf("%d",&n);
 int T[n];
 printf("Saisie des elements des tableaux : \n");
 for(i=0;i<n;i++){
-    
+    printf("T[%d] = ",i+1);
     scanf("%d",&T[i]);
 }
 
