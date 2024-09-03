@@ -8,7 +8,7 @@ scanf("%d",&index);
 int T[index];
 printf("Saisie des elements : \n");
 for(i=0;i<index;i++){
-    
+    printf("T[%d] = ",i+1);
     scanf("%d",&T[i]);
 }
 
