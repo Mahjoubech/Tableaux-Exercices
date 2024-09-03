@@ -6,7 +6,7 @@ int T[5];
 int max,i;
 printf("Saisie des elements : \n");
 for(i=0;i<5;i++){
-    
+    printf("T[%d] = ",i+1);
     scanf("%d",&T[i]);
 }
 printf("Afficharge des elements : \n");
