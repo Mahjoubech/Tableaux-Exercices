@@ -2,7 +2,7 @@
 
 int main(){
 
-int n,i,j,cmp;
+int n,i;
 printf("saisie index de tableau : ");
 scanf("%d",&n);
 int T[n],C[n];
